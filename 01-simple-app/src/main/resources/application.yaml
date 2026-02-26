@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: 01-simple-app
+
+server:
+  port: 8080
